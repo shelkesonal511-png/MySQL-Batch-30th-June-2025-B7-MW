@@ -1,4 +1,4 @@
-
+use airline123;
  -- Clauses {Where, Distinct, From, Order By, Group By, Having}
  
  -- 1. WHERE Clause Queries
